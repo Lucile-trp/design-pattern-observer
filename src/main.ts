@@ -1,8 +1,11 @@
-function main(): boolean {
-    console.log("Typescript Project Bootstrap");
-    return true;
+
+
+function main(): string {
+    const hello: string = "Hello, World!";
+    return hello;
 }
 
-main();
+const result: any = main();
+//console.log(result);
 
 export default main;
