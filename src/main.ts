@@ -1,5 +1,3 @@
-
-
 function main(): string {
     const hello: string = "Hello, World!";
     return hello;
