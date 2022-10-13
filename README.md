@@ -1,3 +1,6 @@
+# Design Pattern - observer - TRIPIER Lucile - CDA22
+
+
 # Typescript Bootstrap Project
 
 Projet Typescript pré-configuré (Jest, Nodemon...)
